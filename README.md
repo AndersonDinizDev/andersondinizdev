@@ -1,8 +1,8 @@
 ## Olá sou Anderson Diniz, Desenvolvedor Front-End
 <div align="center">
   <a href="https://github.com/andersondinizdev/">
-  <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=andersondinizdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondinizdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=AndersonDinizDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDinizDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 <p>Linguagens e Ferramentas:</p>
