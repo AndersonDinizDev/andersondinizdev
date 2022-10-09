@@ -1,4 +1,12 @@
-## Olá sou Anderson Diniz, Desenvolvedor Front-End
+## Olá seja bem vindo ao meu Github :wave:
+
+Me chamo Anderson Diniz, tenho 25 anos, sou Desenvolvendor Front-End e amante da tecnologia.
+
+<ul>
+<li><p>:briefcase: Atualmente trabalho no Exército Brasileiro.</p></li>
+<li><p>:books: No momento estou me aperfeiçoando em Javascript e React.</p></li>
+<li><p>::speech_balloon: Fique à vontade para me fazer qualquer pergunta.</p>></li>
+</ul>
 <div align="center">
   <a href="https://github.com/AndersonDinizDev/">
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=AndersonDinizDev&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
