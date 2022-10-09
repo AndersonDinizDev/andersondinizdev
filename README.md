@@ -5,7 +5,7 @@ Me chamo Anderson Diniz, tenho 25 anos, sou Desenvolvendor Front-End e amante da
 <ul>
 <li><p>:briefcase: Atualmente trabalho no Exército Brasileiro.</p></li>
 <li><p>:books: No momento estou me aperfeiçoando em Javascript e React.</p></li>
-<li><p>:speech_balloon: Fique à vontade para me fazer qualquer pergunta.</p></li>
+<li><p>:speech_balloon: Fique à vontade para  ver meus projetos e fazer qualquer pergunta.</p></li>
 </ul>
 <div align="center">
   <a href="https://github.com/AndersonDinizDev/">
