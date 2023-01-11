@@ -1,6 +1,6 @@
 ## Olá seja bem vindo ao meu Github :wave:
 
-Me chamo Anderson Diniz, tenho 25 anos, sou Desenvolvendor Front-End e amante da tecnologia.
+Me chamo Anderson Diniz, tenho 26 anos, sou Desenvolvendor Front-End e amante da tecnologia.
 
 <ul>
 <li><p>:briefcase: Atualmente trabalho no Exército Brasileiro.</p></li>
