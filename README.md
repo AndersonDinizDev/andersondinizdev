@@ -1,4 +1,4 @@
-## Olá seja bem vindo ao meu Github :wave:
+<img src="./banner.png" </img>
 
 Me chamo Anderson Diniz, tenho 26 anos, sou Desenvolvendor Front-End e Back-End.
 
