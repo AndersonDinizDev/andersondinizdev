@@ -7,7 +7,7 @@ Olá, me chamo Anderson Diniz, sou Desenvolvedor Front-End e um amante da tecnol
 <ul>
 <li><p>:briefcase: Atualmente trabalho como Freelancer desenvolvendo aplicações para clientes em geral.</p></li>
 <li><p>:books: No momento estou me aperfeiçoando em Javascript e React.</p></li>
-<li><p>:speech_balloon: Fique à vontade para ver meus projetos e fazer qualquer pergunta.</p></li>
+<li><p>:speech_balloon: Pegue um café☕ , e fique à vontade para ver meus projetos e fazer qualquer pergunta.</p></li>
 </ul>
 <div align="center">
   <a href="https://github.com/AndersonDinizDev/">
