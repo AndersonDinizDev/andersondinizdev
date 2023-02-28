@@ -2,7 +2,7 @@
   
   ##
 
-Lá, me chamo Anderson Diniz, sou Desenvolvedor Front-End e um amante da tecnologia.
+Olá, me chamo Anderson Diniz, sou Desenvolvedor Front-End e um amante da tecnologia.
 
 <ul>
 <li><p>:briefcase: Atualmente trabalho como Freelancer.</p></li>
