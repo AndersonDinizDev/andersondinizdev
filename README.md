@@ -26,7 +26,7 @@
   
   ## <br><br><br>
   
-  👨‍💻 <strong>My Skills and Tools:</strong>
+  👨‍💻 <strong>Technologies:</strong>
   
   <ul>
     <li>
