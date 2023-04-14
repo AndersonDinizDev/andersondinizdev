@@ -1,32 +1,51 @@
-<img src="./banner.png" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Hey there 👋 I'am Anderson Diniz<br><br>
+  <strong>Front-End Developer</strong> from Brazil, Coffe lover and React fan. 
+</p>
+
+<p align="left">
+  I currently working as <strong>Freelancer</strong>
+</p>
+
+<p align="left">
+  I learning at the moment <strong>React</strong> and <strong>NodeJS</strong>
+</p>
+
+<p align="left"><br>
+  <a href="mailto:andersondiniz159@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/andersonldiniz/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+  <a href="https://t.me/andersondiniz159" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
   
-  ##
-
-Olá, me chamo Anderson Diniz, sou Desenvolvedor Front-End e um amante da tecnologia.
-
-<ul>
-<li><p>:briefcase: Atualmente trabalho como Freelancer desenvolvendo aplicações para clientes em geral.</p></li>
-<li><p>:books: No momento estou me aperfeiçoando em Javascript e React.</p></li>
-<li><p>:speech_balloon: Pegue um café ☕, e fique à vontade para ver meus projetos e fazer qualquer pergunta.</p></li>
+  
+  ## <br><br><br>
+  
+  👨‍💻 <strong>My Skills and Tools:</strong>
+  
+  <ul>
+    <li>
+      <p>Front-End:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents" />
+  </a>
+    </li>
+       <li>
+    <p>Back-End:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+  </a>
+    </li>
+    <li>
+    <p>Tools and Plataforms:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,powershel" />
+  </a>
+    </li>
 </ul>
-<div align="center">
-  <a href="https://github.com/AndersonDinizDev/">
-  <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=AndersonDinizDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDinizDev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-<p>Linguagens e Ferramentas:</p>
-  <img align="center" alt="Diniz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diniz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diniz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diniz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  ##
-<p>Conecte-se comigo:</p>
-<div>
-  <a href = "mailto:andersondiniz159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-diniz-763342230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
