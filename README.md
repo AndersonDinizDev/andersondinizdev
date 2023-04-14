@@ -26,7 +26,7 @@
   
   ## <br><br><br>
   
-  👨‍💻 <strong>Technologies:</strong>
+  <h3><strong>👨‍💻 Technologies:</strong></h3>
   
   <ul>
     <li>
