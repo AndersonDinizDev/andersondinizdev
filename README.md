@@ -13,7 +13,7 @@
   I learning at the moment <strong>React</strong> and <strong>NodeJS</strong>
 </p>
 
-<p>Take a coffee ☕, and feel free to browse my projects</p>
+<p>Take a coffee ☕, and feel free to browse my projects.</p>
 
 <p align="left"><br>
   <a href="mailto:andersondiniz159@gmail.com" alt="Gmail">
