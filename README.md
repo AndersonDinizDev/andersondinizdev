@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <h3>Hey there 👋 I'am Anderson Diniz<br><br></h3>
-  <strong>Front-End Developer</strong> from Brazil, Coffe lover and React fan
+  <strong>Full-Stack Developer</strong> from Brazil, Coffe lover and React fan
 </p>
 
 <p align="left">
