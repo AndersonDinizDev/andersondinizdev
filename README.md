@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  I learning at the moment <strong>React</strong> and <strong>NodeJS</strong>
+  I learning at the moment <strong>Javascript</strong> and <strong>C#</strong>
 </p>
 
 <p>Take a coffee ☕, and feel free to browse my projects.</p>
