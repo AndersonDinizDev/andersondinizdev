@@ -40,7 +40,7 @@
        <li>
     <p>Back-End:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb" />
   </a>
     </li>
     <li>
