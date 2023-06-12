@@ -1,19 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <h3>Hey there 👋 I'am Anderson Diniz<br><br></h3>
-  <strong>Front-End Developer</strong> from Brazil, Coffe lover and React fan
+  <h3>Olá 👋 eu sou Anderson Diniz<br><br></h3>
+  <strong>Desenvolvedor Front-End</strong> apaixonado pela tecnologia, amante de café e fâ de React.
 </p>
 
 <p align="left">
-  I currently working as <strong>Freelancer</strong>
+  Atualmente estou estudando <strong>Javascript</strong> e <strong>C#</strong>
 </p>
 
-<p align="left">
-  I learning at the moment <strong>Javascript</strong> and <strong>C#</strong>
-</p>
-
-<p>Take a coffee ☕, and feel free to browse my projects.</p>
+<p>Pegue um café ☕, e sinta-se livre para navegar pelos meus projetos.</p>
 
 <p align="left"><br>
   <a href="mailto:andersondiniz159@gmail.com" alt="Gmail">
