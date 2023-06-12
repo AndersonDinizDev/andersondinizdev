@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <h3>Olá 👋 eu sou Anderson Diniz<br><br></h3>
+  <h3>Olá 👋 Eu sou Anderson Diniz<br><br></h3>
   <strong>Desenvolvedor Front-End</strong> apaixonado pela tecnologia, amante de café e fã de React.
 </p>
 
