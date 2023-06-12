@@ -24,7 +24,7 @@
   
   ## <br><br>
   
-  <h3><strong>👨‍💻 Technologies:</strong></h3>
+  <h3><strong>👨‍💻 Tecnologias:</strong></h3>
   
   <ul>
     <li>
@@ -40,7 +40,7 @@
   </a>
     </li>
     <li>
-    <p>Tools and Plataforms:</p>
+    <p>Ferramentas e plataformas:</p>
         <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,linux,powershel" />
   </a>
