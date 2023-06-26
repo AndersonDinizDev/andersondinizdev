@@ -30,7 +30,7 @@
     <li>
       <p>Front-End:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,sass" />
   </a>
     </li>
        <li>
