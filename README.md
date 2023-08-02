@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Atualmente estou estudando <strong>Javascript</strong> e <strong>C#.</strong>
+  Atualmente estou estudando <strong>Javascript</strong> e <strong>PHP.</strong>
 </p>
 
 <p>Pegue um café ☕, e sinta-se livre para navegar pelos meus projetos.</p>
