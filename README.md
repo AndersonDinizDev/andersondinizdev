@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <h3>Olá 👋 Eu sou Anderson Diniz<br><br></h3>
-  <strong>Desenvolvedor Front-End</strong> apaixonado pela tecnologia, amante de café e fã de React.
+  <strong>Desenvolvedor Full Stack</strong> apaixonado pela tecnologia, amante de café e fã de React.
 </p>
 
 <p align="left">
