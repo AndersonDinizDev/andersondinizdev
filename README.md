@@ -5,10 +5,6 @@
   <strong>Desenvolvedor Full Stack</strong> apaixonado pela tecnologia, amante de café e fã de React.
 </p>
 
-<p align="left">
-  Atualmente estou estudando <strong>Javascript</strong> e <strong>PHP.</strong>
-</p>
-
 <p>Pegue um café ☕, e sinta-se livre para navegar pelos meus projetos.</p>
 
 <p align="left"><br>
