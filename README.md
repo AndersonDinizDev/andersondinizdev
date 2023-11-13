@@ -26,19 +26,19 @@
     <li>
       <p>Front-End:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,sass,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,sass,materialui,bootstrap,bootstrap" />
   </a>
     </li>
        <li>
     <p>Back-End:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
   </a>
     </li>
     <li>
     <p>Ferramentas e plataformas:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,powershel" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,docker,vscode" />
   </a>
     </li>
 </ul>
