@@ -26,7 +26,7 @@
     <li>
       <p>Front-End:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,sass,materialui,bootstrap,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,sass,materialui,jquery,bootstrap" />
   </a>
     </li>
        <li>
