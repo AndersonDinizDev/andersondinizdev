@@ -38,7 +38,7 @@
     <li>
     <p>Ferramentas e plataformas:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,docker,vscode,aws" />
   </a>
     </li>
 </ul>
