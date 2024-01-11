@@ -32,7 +32,7 @@
        <li>
     <p>Back-End:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
   </a>
     </li>
     <li>
