@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Desenvolvedor Full Stack</strong> apaixonado pela tecnologia, amante de café e fã de React.
+  <strong>Entusiasta dedicado</strong>, possuo habilidades no desenvolvimento full-stack para uma variedade de serviços. Trago consigo conhecimento e experiência valiosos em programação de alto nível, especialmente utilizando PHP/Laravel, uma combinação dinâmica para a construção de serviços web.
+
+Atualmente, concentro-me principalmente em projetos back-end, utilizando PHP com o framework Laravel. Apesar disso, também mantenho uma visão atualizada das mais recentes tecnologias front-end. Meu objetivo é sempre aplicar os conceitos e a experiência da análise e desenvolvimento de sistemas para resolver problemas específicos e facilitar a vida dos usuários..
 </p>
 
-<p> Se ajuste na cadeira, pegue um café ☕, e sinta-se livre para navegar pelos meus projetos.</p>
+<p> Acomode-se na cadeira, sirva-se de um café ☕ e fique à vontade para explorar meus projetos</p>
 
 <p align="left"><br>
   <a href="mailto:contato.andersonldiniz@gmail.com" alt="Gmail">
