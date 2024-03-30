@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <strong>Entusiasta dedicado</strong>, possuo habilidades no desenvolvimento full-stack para uma variedade de serviços. Trago consigo conhecimento e experiência valiosos em programação de alto nível, especialmente utilizando PHP/Laravel, uma combinação dinâmica para a construção de serviços web.
