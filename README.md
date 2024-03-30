@@ -3,7 +3,7 @@
 <p align="left"> 
   Possuo habilidades no desenvolvimento full-stack para uma variedade de serviços. Trago consigo conhecimento e experiência valiosos em programação de alto nível, especialmente utilizando PHP/Laravel, uma combinação dinâmica para a construção de serviços web.
 
-Atualmente, concentro-me principalmente em projetos back-end, utilizando PHP com o framework Laravel. Apesar disso, também mantenho uma visão atualizada das mais recentes tecnologias front-end. Meu objetivo é sempre aplicar os conceitos e a experiência da análise e desenvolvimento de sistemas para resolver problemas específicos e facilitar a vida dos usuários..
+Atualmente, concentro-me principalmente em projetos back-end, utilizando PHP com o framework Laravel. Apesar disso, também mantenho uma visão atualizada das mais recentes tecnologias front-end. Meu objetivo é sempre aplicar os conceitos e a experiência da análise e desenvolvimento de sistemas para resolver problemas específicos e facilitar a vida dos usuários.
 </p>
 
 <p> Acomode-se na cadeira, sirva-se de um café ☕ e fique à vontade para explorar meus projetos</p>
