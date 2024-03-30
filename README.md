@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <h2>Bem vindo ao meu perfil ! 👨‍💻<br><br></h2>
   <strong>Desenvolvedor Full Stack</strong> apaixonado pela tecnologia, amante de café e fã de React.
 </p>
 
@@ -18,7 +17,7 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   
   
-  ## <br><br>
+  ## <br><br><br>
   
   <h3><strong>👨‍💻 Tecnologias:</strong></h3>
   
