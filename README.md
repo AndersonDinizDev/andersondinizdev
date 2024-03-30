@@ -6,7 +6,7 @@
 Atualmente, concentro-me principalmente em projetos back-end, utilizando PHP com o framework Laravel. Apesar disso, também mantenho uma visão atualizada das mais recentes tecnologias front-end. Meu objetivo é sempre aplicar os conceitos e a experiência da análise e desenvolvimento de sistemas para resolver problemas específicos e facilitar a vida dos usuários.
 </p>
 
-<p> Acomode-se na cadeira, sirva-se de um café ☕ e fique à vontade para explorar meus projetos</p>
+<p> Acomode-se na cadeira, sirva-se de um café ☕ e fique à vontade para explorar meus projetos.</p>
 
 <p align="left"><br>
   <a href="mailto:contato.andersonldiniz@gmail.com" alt="Gmail">
