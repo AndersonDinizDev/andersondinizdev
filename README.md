@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-   Desenvolvedor full-stack, com expertise em uma variedade de serviços. Possuo conhecimento e experiência valiosos em programação de alto nível, especialmente utilizando PHP/Laravel, uma combinação dinâmica para a construção de serviços web.
-
-Atualmente, minha principal área de atuação é o desenvolvimento back-end, onde utilizo PHP em conjunto com o framework Laravel. No entanto, mantenho-me atualizado sobre as mais recentes tecnologias front-end. Meu objetivo primordial é aplicar conceitos e experiências para resolver problemas específicos e proporcionar uma experiência facilitada aos usuários.
+  Desenvolvedor full-stack com experiência diversificada, especialmente em PHP/Laravel, para a construção de serviços web dinâmicos. Atualmente, foco no desenvolvimento back-end, utilizando PHP e Laravel, mas mantenho-me atualizado com as tecnologias front-end. Meu objetivo é aplicar minha experiência para resolver problemas e melhorar a experiência do usuário.
 </p>
 
 <p> Acomode-se na cadeira, sirva-se de um café ☕ e fique à vontade para explorar meus projetos.</p>
