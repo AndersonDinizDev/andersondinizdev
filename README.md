@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Desenvolvedor full-stack com experiência diversificada, especialmente em PHP/Laravel, para a construção de serviços web dinâmicos. Atualmente, foco no desenvolvimento back-end, utilizando PHP e Laravel, mas mantenho-me atualizado com as tecnologias front-end. Meu objetivo é aplicar minha experiência para resolver problemas e melhorar a experiência do usuário.
+  Backend developer with diversified experience, especially in PHP/Laravel, for building dynamic web services. I focus on backend development, using PHP and Laravel, and keep myself updated with related technologies. My goal is to apply my experience to solve problems and enhance user experience.
 </p>
 
-<p> Acomode-se na cadeira, sirva-se de um café ☕ e fique à vontade para explorar meus projetos.</p>
+<p> Settle into your chair, pour yourself a coffee ☕, and feel free to explore my projects.</p>
 
 <p align="left"><br>
   <a href="mailto:contato.andersonldiniz@gmail.com" alt="Gmail">
@@ -19,31 +19,31 @@
   
   ## <br><br><br><br>
   
-  <h3><strong>👨‍💻 Tecnologias:</strong></h3>
+  <h3><strong>👨‍💻 Technologies:</strong></h3>
   
   <ul>
     <li>
-      <p>Front-End:</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,styledcomponents,materialui,jquery,bootstrap" />
-  </a>
-    </li>
-       <li>
-    <p>Back-End:</p>
+      <p>Back-End:</p>
         <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
   </a>
     </li>
-    <li>
-    <p>Ferramentas e plataformas:</p>
+       <li>
+    <p>Tools and platforms:</p>
         <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,linux,docker,vscode,aws" />
+  </a>
+    </li>
+    <li>
+    <p>Others:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react" />
   </a>
     </li>
 </ul>
   
 ##
-<h3>📈 Minhas Estatísticas:</h3>
+<h3>📈 My Stats:</h3>
 
 | Estatísticas                                                                                                                                                          | Linguagens mais utilizadas                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
