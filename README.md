@@ -45,6 +45,6 @@
 ##
 <h3>📈 My Stats:</h3>
 
-| Estatísticas                                                                                                                                                          | Linguagens mais utilizadas                                                                                                                                                                   |
+| Statistics                                                                                                                                                          | Most used languages                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=andersondinizdev&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersondinizdev&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
