@@ -1,11 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
+<p align="left">
   Backend developer with diversified experience, especially in PHP/Laravel, for building dynamic web services. I focus on backend development, using PHP and Laravel, and keep myself updated with related technologies. My goal is to apply my experience to solve problems and enhance user experience.
 </p>
 
 <p> Settle into your chair, pour yourself a coffee ☕, and feel free to explore my projects.</p>
-
 <p align="left"><br>
   <a href="mailto:contato.andersonldiniz@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,9 +12,10 @@
 
   <a href="https://t.me/andersondiniz159" alt="Telegram">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  
-  
-  ## <br><br><br><br>
+</p>
+
+## <br><br><br><br>
+
   
   <h3><strong>👨‍💻 Technologies:</strong></h3>
   
