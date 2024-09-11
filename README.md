@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Backend developer with diversified experience, especially in PHP/Laravel, for building dynamic web services. I focus on backend development, using PHP and Laravel, and keep myself updated with related technologies. My goal is to apply my experience to solve problems and enhance user experience.
