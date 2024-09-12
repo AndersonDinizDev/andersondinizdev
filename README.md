@@ -1,5 +1,5 @@
 <p align="left">
-  Backend developer with diversified experience, especially in PHP/Laravel, for building dynamic web services. I focus on backend development, using PHP and Laravel, and keep myself updated with related technologies. My goal is to apply my experience to solve problems and enhance user experience.
+  Backend developer with extensive experience in building dynamic and efficient web services. I have solid knowledge in backend architectures, with experience in PHP/Laravel, as well as cloud technologies like AWS and serverless solutions. My approach includes applying modern practices such as microservices and containerization to build scalable and high-performance systems. I aim to solve complex problems and enhance user experiences, while staying up-to-date with the latest trends and tools in backend development.
 </p>
 
 <p> Settle into your chair, pour yourself a coffee ☕, and feel free to explore my projects.</p>
