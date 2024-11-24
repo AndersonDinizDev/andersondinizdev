@@ -17,28 +17,10 @@
 ## <br>
 
   
-  <h3><strong>👨‍💻 Technologies:</strong></h3>
-  
-  <ul>
-    <li>
-      <p>Back-End:</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,dynamodb" />
+  <h3><strong>👨‍💻 Technologies and Tools:</strong></h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,dynamodb,js,react,git,github,figma,linux,docker,vscode,aws" />
   </a>
-    </li>
-       <li>
-    <p>Tools and platforms:</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,docker,vscode,aws" />
-  </a>
-    </li>
-    <li>
-    <p>Others:</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react" />
-  </a>
-    </li>
-</ul>
   
 ##
 <h3>📈 My Stats:</h3>
