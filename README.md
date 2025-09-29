@@ -19,7 +19,7 @@
   
   <h3><strong>👨‍💻 Technologies and Tools:</strong></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,dynamodb,python,git,github,figma,linux,docker,vscode,aws" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,dynamodb,js,python,git,github,figma,linux,docker,vscode,aws" />
   </a>
   
 ##
